@@ -14,6 +14,8 @@ de abertura e fechamento após declarar
 
     <!DOCTYPE html>:
 
+------------------
+
     <!DOCTYPE html>
     <html>
  
