@@ -6,7 +6,7 @@ Os arquivos HTML requerem certos elementos para configurar o documento corretame
 
 A declaração fica assim:
 
-    <! DOCTYPE html>
+    <!DOCTYPE html>
 
 Esta declaração é uma instrução e deve ser a primeira linha de código em seu documento HTML. Ele informa ao navegador que tipo de documento esperar, junto com qual versão do HTML está sendo usada no documento. Por enquanto, o navegador assumirá corretamente que o html em <!DOCTYPE html> está se referindo ao HTML5, pois é o padrão atual.
 
