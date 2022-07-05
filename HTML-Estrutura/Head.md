@@ -35,7 +35,7 @@ contém os metadados de uma página da web. Metadados são informações sobre a
 
     <body>, 
     
-os metadados no cabeçalho são informações sobre a própria página. Você verá um exemplo disso no próximo exercício.
+os metadados no head são informações sobre a própria página. Você verá um exemplo disso no próximo exercício.
 
 As tags head de abertura e fechamento geralmente aparecem como o primeiro item após sua primeira tag HTML:
 
