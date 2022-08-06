@@ -28,7 +28,7 @@ Na segunda linha, um cabeçalho de tabela foi adicionado como título de linha: 
 
 Quando renderizado, este código aparecerá semelhante à imagem abaixo:
 
-Imagem
+![image](https://user-images.githubusercontent.com/85000470/183262600-88df59fa-ed51-4bf9-827e-0df4f626836b.png)
 
 Observe também o uso do atributo scope, que pode assumir um de dois valores:
 
