@@ -33,5 +33,6 @@ Quando renderizado, este código aparecerá semelhante à imagem abaixo:
 Observe também o uso do atributo scope, que pode assumir um de dois valores:
 
 row - este valor deixa claro que o título é para uma linha.
+
 col - este valor deixa claro que o cabeçalho é para uma coluna.
 O código HTML para tabelas pode parecer um pouco estranho no começo, mas analisá-lo peça por peça ajuda a tornar o código mais compreensível.
