@@ -19,4 +19,4 @@ Os atributos nos permitem fazer muitas coisas diferentes em nosso arquivo de áu
 
 Como você deve ter notado, já usamos o atributo src no código de exemplo acima. A maioria dos atributos vai na tag de abertura de "audio". Por exemplo, veja como podemos adicionar a funcionalidade de reprodução automática e os controles de áudio:
 
-<audio autoplay controls>
+    <audio autoplay controls>
