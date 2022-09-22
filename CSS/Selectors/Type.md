@@ -10,3 +10,10 @@ p {
   color: green;
 }
 ```
+
+Esta é uma instância do uso do seletor de tipo! O tipo de elemento é p, que vem da tag HTML "p".
+
+Algumas notas importantes sobre o seletor de tipo:
+
+* O seletor de tipo não inclui os colchetes angulares.
+* Como os tipos de elemento são frequentemente referidos pelo nome da tag de abertura, o seletor de tipo às vezes é chamado de nome da tag ou seletor de elemento.
