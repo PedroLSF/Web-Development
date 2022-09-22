@@ -1,4 +1,4 @@
-# Linking the CSS Fil
+# Linking the CSS File
 Perfeito! Separamos com sucesso a estrutura (HTML) do estilo (CSS), mas a página da web ainda parece sem graça. Por quê?
 
 Quando os códigos HTML e CSS estão em arquivos separados, os arquivos devem ser vinculados. Caso contrário, o arquivo HTML não poderá localizar o código CSS e o estilo não será aplicado.
