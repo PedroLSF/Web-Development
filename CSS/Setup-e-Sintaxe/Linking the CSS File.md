@@ -9,3 +9,7 @@ Você pode usar o elemento "link" para vincular arquivos HTML e CSS. O elemento 
 2. rel — Este atributo descreve a relação entre o arquivo HTML e o arquivo CSS. Como você está vinculando a uma folha de estilo, o valor deve ser definido como folha de estilo.
 
 Ao vincular um arquivo HTML e um arquivo CSS, o elemento "link" terá a seguinte aparência:
+
+~~~html
+<link href='https://www.codecademy.com/stylesheets/style.css' rel='stylesheet'>
+~~~
