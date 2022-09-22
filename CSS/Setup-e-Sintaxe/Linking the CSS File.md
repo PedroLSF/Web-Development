@@ -13,3 +13,17 @@ Ao vincular um arquivo HTML e um arquivo CSS, o elemento "link" terá a seguinte
 ~~~html
 <link href='https://www.codecademy.com/stylesheets/style.css' rel='stylesheet'>
 ~~~
+
+Observe que no exemplo acima, o caminho para a folha de estilo é um URL:
+
+    https://www.codecademy.com/stylesheets/style.css
+
+Especificar o caminho para a folha de estilo usando uma URL é uma forma de vincular uma folha de estilo.
+
+Se o arquivo CSS estiver armazenado no mesmo diretório que seu arquivo HTML, você poderá especificar um caminho relativo em vez de um URL, assim:
+
+~~~html
+<link href='./style.css' rel='stylesheet'>
+~~~
+
+Usar um caminho relativo é uma maneira muito comum de vincular uma folha de estilo.
