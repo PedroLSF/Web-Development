@@ -1,0 +1,2 @@
+# Introduction To Visual Rules
+O objetivo do CSS é adicionar estilo à página da Web, e cada elemento na página pode ter muitas propriedades de estilo. Algumas das propriedades básicas estão relacionadas ao tamanho, estilo e cor do elemento. Nesta lição, você aprenderá algumas regras visuais básicas de CSS que você pode usar para começar a estilizar elementos de página da web!
